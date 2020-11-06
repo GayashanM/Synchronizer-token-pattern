@@ -7,7 +7,7 @@ Download or clone reository
 Download either xampp or wamp
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1qtKlMf4_HwfxvARhOMLnNDpiM7mFTC5b/view" />
+  <img src="/images/003_Desktop Wallpapers 4K Ultra HD207.jpg" />
 </div>
 
 extract repository to server's specific folder
